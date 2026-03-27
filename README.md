@@ -17,4 +17,4 @@ Este proyecto forma parte de la asignatura **Gestión de Datos para IA**. Su obj
 * **Lenguaje:** Python
 * **Base de Datos:** PostgreSQL
 * **Control de Versiones:** Git / GitHub
-* **Planificación:** Jira
+* **Planificación:** Jira   --> https://duocuc-team-b580r3v2.atlassian.net/jira/software/projects/KAN/boards/1?atlOrigin=eyJpIjoiNmIyYzQ0ODIwNTY0NDFhZGJjYjI3MjA0ZGRlNWIzZDEiLCJwIjoiaiJ9
