@@ -17,3 +17,4 @@ Este proyecto forma parte de la asignatura **Gestión de Datos para IA**. Su obj
 * **Lenguaje:** Python
 * **Base de Datos:** PostgreSQL
 * **Control de Versiones:** Git / GitHub
+* **Planificación:** Jira
