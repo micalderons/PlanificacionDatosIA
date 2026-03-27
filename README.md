@@ -5,6 +5,8 @@ Este proyecto forma parte de la asignatura **Gestión de Datos para IA**. Su obj
 
 ## Equipo de Trabajo
 * **Project Manager:** Miguel Calderón Santana
+* **Ingeniero Datos:** Roberto Armijo
+* **Ingeniero ML:** Ricardo Saavedra
 
 ## Estructura del Repositorio
 * `Planificacion_Proyecto_Farma.pdf`: Documento oficial con el Acta de Constitución, Alcance, Cronograma y estructura WBS (Metodología PMBOK).
